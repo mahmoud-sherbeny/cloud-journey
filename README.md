@@ -24,7 +24,7 @@ My cloud engineering learning journey and hands-on projects.
 ## 📂 Projects
 | Project | Description | Status |
 |---|---|---|
-| First Project | Hosting a static website on an AWS S3 bucket | DONE ✅ |
+| [First Project](projects/s3-static-website.md) | Hosting a static website on an AWS S3 bucket | ✅ Completed |
 
 ---
 
