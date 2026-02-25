@@ -138,5 +138,3 @@ An alternative to ACLs are bucket policies, which are. rules that determine who 
 My bucket policy denied every ones from deleting the (index.html) in the bucket i tested this by trying to deleting the index file  and saw that permission is denied this means that my bucket policies works it successfully stoped me from deleting  the objects i want to protect 
 
 ---
-
----
